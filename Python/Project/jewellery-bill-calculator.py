@@ -1,4 +1,3 @@
-
 print("------------------------------------------------")
 name=input("Enter your name:")
 gender=input("Enter gender:")
